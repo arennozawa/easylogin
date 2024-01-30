@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'driver-class-name'"
+  },
+  {
+    "name": "username",
+    "type": "java.lang.String",
+    "description": "A description for 'username'"
+  },
+  {
+    "name": "mybatis.mapUnderscoreToCamelCase",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis.mapUnderscoreToCamelCase'"
+  },
+  {
+    "name": "datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.driver-class-name'"
+  },
+  {
+    "name": "datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.url'"
+  },
+  {
+    "name": "datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'datasource.username'"
+  }
+]}
